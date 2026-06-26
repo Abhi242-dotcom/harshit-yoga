@@ -6,7 +6,7 @@
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;font-family:'Inter',system-ui,sans-serif;color:var(--fg);background:var(--bg);line-height:1.6}
+body{background:red;margin:0;font-family:'Inter',system-ui,sans-serif;color:var(--fg);background:var(--bg);line-height:1.6}
 img{max-width:100%;display:block}
 h1,h2,h3,.display{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;line-height:1.15;margin:0}
 h2{font-size:clamp(1.8rem,3.5vw,2.4rem);margin-top:.5rem}
