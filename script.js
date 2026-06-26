@@ -2,9 +2,9 @@
 const diseases = ["Blood Pressure","Diabetes","Thyroid","Migraine","Obesity","Cervical","Headache","Asthma","Joint Pain","Back Pain","Sciatica","Paralysis","Constipation","Nerve Weakness","PCOD","Insomnia","Hairfall","Psoriasis","Parkinson's","Leucorrhoea","Physical Weakness"];
 
 const services = [
-  {icon:"🌬",title:"Yoga & Pranayam",desc:"Guided asana and breathwork sessions for body, mind and prana."},
-  {icon:"💧",title:"Naturopathy Treatments",desc:"Mud therapy, enema, steam bath, hot & cold bath and spinal bath."},
-  {icon:"🌸",title:"Panchkarma",desc:"Classical detox therapies to cleanse and rejuvenate the body."},
+  {icon:"🌱",title:"Yoga & Pranayam",desc:"Guided asana and breathwork sessions for body, mind and prana."},
+  {icon:"🌱",title:"Naturopathy Treatments",desc:"Mud therapy, enema, steam bath, hot & cold bath and spinal bath."},
+  {icon:"🌱",title:"Panchkarma",desc:"Classical detox therapies to cleanse and rejuvenate the body."},
   {icon:"🌱",title:"Natural Diet & Sprouts",desc:"Living food, fresh sprouts and personalised diet plans."},
 ];
 
