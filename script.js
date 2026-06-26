@@ -11,8 +11,8 @@ const services = [
 const testimonials = [
   {name:"Sunita Sharma",role:"Sonipat",quote:"Dr. Sindhu की देखरेख में मेरा thyroid पूरी तरह control में आ गया। योग और diet से नई ज़िंदगी मिली है।"},
   {name:"Rajesh Kumar",role:"Model Town",quote:"Years of back pain and sciatica gone after 6 weeks of naturopathy and yoga. Truly life-changing centre."},
-  {name:"Meena Verma",role:"Delhi",quote:"PCOD और insomnia दोनों में बहुत राहत मिली। Panchkarma और pranayam का असर अद्भुत है।"},
-  {name:"Anil Yadav",role:"Rohtak",quote:"Diabetes का sugar level कम हुआ और 8 kg weight कम किया। Doctor साहिबा का मार्गदर्शन बेहतरीन है।"},
+  {name:"Meena Verma",role:"Sector 23",quote:"PCOD और insomnia दोनों में बहुत राहत मिली। Panchkarma और pranayam का असर अद्भुत है।"},
+  {name:"Anil Yadav",role:"Malviya nagar",quote:"Diabetes का sugar level कम हुआ और 8 kg weight कम किया। Doctor साहिबा का मार्गदर्शन बेहतरीन है।"},
 ];
 
 const gallery = [
